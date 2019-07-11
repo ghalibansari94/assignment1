@@ -1,0 +1,244 @@
+
+
+.headertop{ 
+}
+
+.find input[type=text] {
+  float: right;
+  padding: 6px;
+  border: 1px solid gray;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+}
+
+.div2{
+  background-color: gray;
+  align-content: center;
+}
+
+.logo{
+  /* width: 35%;
+  float: relative; */
+  display: block;
+  float: left;
+}
+
+div{
+}
+
+.h2p{
+  width: 65%;
+  /* float: relative; */
+  display: inline-block;
+}
+
+.logo{
+  display: inline;
+}
+
+.h2p{
+  
+}
+
+.h2p div{
+  /* display: inline-flex; */
+  float: top;
+}
+
+.link ul li{
+  float: left;
+  display: inline;
+  list-style-type: none;
+  padding: 10px;
+  color: white;
+}
+
+.div6{
+  padding-bottom: 50px;
+  margin-top: 40px;
+}
+
+.card{
+  background-color: white;
+  width: 400px;
+  padding-top: 10px;
+  margin: auto;
+  padding-bottom: 20px;
+}
+
+.card p{
+  /* width: 350px; */
+  /* margin: auto; */
+}
+
+.card:hover{
+  box-shadow: 1px 4px 8px 1px rgba(56, 7, 236, 0.2);
+}
+
+.div8{
+  text-align: center;
+  align-content: center;
+}
+
+.cd{
+  width: 250px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+.cd img{
+  width: 100%
+}
+
+.lst{
+  list-style-image: url('img/arrow1.png');
+}
+
+.lsts{
+  list-style-image: url('img/icon8.png');
+}
+
+.ss:hover{
+  background-color: orange;
+  /* border: none; */
+  color: white;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.ss {
+  background-color: white;
+  border: 5px solid orange;
+  color: orange;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border: 3px solid orange;
+  border-radius: 5px;
+}
+
+.div9{
+  background-color: gray;
+  align-content: center;
+}
+
+.w33{
+  /* width: 33%; */
+  float: left;
+}
+
+.ff{
+  width: 250px;
+  float: left;
+}
+
+.white{
+  color: white;
+}
+
+.fc{
+  background-color: rgb(73, 62, 62);
+}
+
+.ll{
+  color: white;
+  /* float: left; */
+  display: inline;
+  /* list-style-type: none; */
+  text-decoration: none;
+}
+
+.w33 ul li{
+  display: inline;
+  list-style: none;
+}
+
+.ccc{
+  width: 30px;
+  border-radius: 25px;
+  margin-top: 10px;
+  float: left;
+  margin-left: 5px;
+}
+
+.kk li{
+  float: left;
+  text-decoration: none;
+  display: inline;
+  width: 100px;
+  position: relative;
+}
+
+.kk{
+  overflow: hidden;
+  display: block;
+  width: 600px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.kk li:hover img{
+  background-image: url('img/tooltip-hover.png');
+  background-repeat: no-repeat;
+}
+
+.kk li:hover .tlx{
+  display: block;
+}
+
+.kk li .tlx{
+  display: none;
+}
+
+.link ul li a{
+  text-decoration: none;
+}
+
+.link ul li:hover a{
+  text-decoration: none;
+  color: gray;
+}
+
+.lst li{
+  margin-bottom: 10px;
+}
+
+.kk li p{
+  margin-top: 20px;
+  color: black;
+  position: absolute;
+  left: 38%;
+  font-size: 44px;
+}
+
+.card p{
+  padding: 30px;
+}
+
+.lsts li{
+  padding-top: 10px;
+}
+
+.div7{
+  background-image: url('img/testimonial-bg.jpg');
+  height: 450px;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.ccx{
+  border: 3px solid white;
+  border-radius: 100%;
+}

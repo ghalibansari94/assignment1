@@ -1,0 +1,8 @@
+http://javascript.info/
+
+https://es6.io/
+
+https://exploringjs.com/es6/ch_generators.html#sec_what-are-generators
+
+https://www.hongkiat.com/blog/ecmascript-6/
+
